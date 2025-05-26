@@ -111,7 +111,6 @@ The official Smart India Hackathon 2024 proposal and pitch deck is available in 
 ## 👨‍🌾 Team Hisenburg
 
 * Rudra Verma
-* Divyansh Agarwal
 * Aryan Bhardwaj
 * Himanshu Gupta
 * Sumit Parashar
